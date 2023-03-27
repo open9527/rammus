@@ -53,7 +53,7 @@ dependencies {
     //主通道依赖
     implementation 'com.aliyun.ams:alicloud-android-push:3.7.7'
       //辅助通道依赖
-//    implementation 'com.aliyun.ams:alicloud-android-third-push:3.7.7'
+    implementation 'com.aliyun.ams:alicloud-android-third-push:3.7.7'
 
     //厂商通道依赖
 //    implementation 'com.aliyun.ams:alicloud-android-third-push-huawei:3.7.7'
