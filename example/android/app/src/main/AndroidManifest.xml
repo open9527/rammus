@@ -25,39 +25,6 @@
         <meta-data
             android:name="com.alibaba.app.appsecret"
             android:value="" /> <!-- 请填写你自己的appSecret -->
-        <meta-data
-            android:name="com.huawei.hms.client.appid"
-            android:value="" />
-        <meta-data
-            android:name="com.xiaomi.push.client.app_id"
-            android:value="" />
-        <meta-data
-            android:name="com.xiaomi.push.client.app_key"
-            android:value="" />
-        <meta-data
-            android:name="com.oppo.push.client.app_key"
-            android:value="" />
-        <meta-data
-            android:name="com.oppo.push.client.app_secret"
-            android:value="" />
-        <meta-data
-            android:name="com.meizu.push.client.app_id"
-            android:value="" />
-        <meta-data
-            android:name="com.meizu.push.client.app_key"
-            android:value="" />
-        <meta-data
-            android:name="com.vivo.push.app_id"
-            android:value="" />
-        <meta-data
-            android:name="com.vivo.push.api_key"
-            android:value="" />
-        <meta-data
-            android:name="com.gcm.push.send_id"
-            android:value="" />
-        <meta-data
-            android:name="com.gcm.push.app_id"
-            android:value="" />
 
         <activity
             android:name=".MainActivity"

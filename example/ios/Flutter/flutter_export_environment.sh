@@ -1,9 +1,9 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=G:\dev\flutter_windows_3.0.5-stable\flutter"
-export "FLUTTER_APPLICATION_PATH=G:\project\flutter\rammus-master\example"
+export "FLUTTER_ROOT=/Users/liyuanbo/Downloads/flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/liyuanbo/Documents/git lyb5834/rammus/example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
-export "FLUTTER_TARGET=lib\main.dart"
+export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"
 export "FLUTTER_BUILD_NUMBER=1"
